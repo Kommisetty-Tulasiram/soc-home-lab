@@ -14,7 +14,7 @@ It is structured to build skills from **fundamentals → intermediate → advanc
 - Lab 02 — Credential Abuse Detection  
 
 **Skills Developed:**
-- Log ingestion  
+- Log ingestion 
 - Alert visibility  
 - Basic alert triage  
 - Authentication log analysis  
