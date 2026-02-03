@@ -15,19 +15,19 @@ Log analysis, alert triage, SIEM basics
 
 ---
 
-### 🟡 Lab 02 — Credential Abuse Detection
-**Focus:**  
-Successful login after multiple failures  
-**Skills:**  
-Correlation analysis, SOC risk assessment  
-
----
-
-### 🔴 Lab 03 — RDP Brute-force Detection
+### 🔴 Lab 02 — RDP Brute-force Detection
 **Focus:**  
 Remote authentication abuse  
 **Skills:**  
 Network-based detection, external attack analysis  
+
+---
+
+### 🟡 Lab 03 — Credential Abuse Detection
+**Focus:**  
+Successful login after multiple failures  
+**Skills:**  
+Correlation analysis, SOC risk assessment 
 
 ---
 
