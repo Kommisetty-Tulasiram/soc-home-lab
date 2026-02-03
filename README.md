@@ -36,8 +36,8 @@ Built to simulate **real SOC workflows**, not just tool usage.
 ## 🧪 Labs
 
 - **Lab 01:** Authentication Failure Detection  
-- **Lab 02:** Credential Abuse Detection (Success after failures)  
-- **Lab 03:** RDP Brute-force Detection  
+- **Lab 02:** RDP Brute-force Detection
+- **Lab 03:** Credential Abuse Detection (Success after failures) 
 - **Lab 04:** Lateral Movement Detection  
 - **Lab 05:** Privilege Escalation Detection  
 - **Lab 06:** Persistence Detection  
